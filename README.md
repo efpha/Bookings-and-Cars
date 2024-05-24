@@ -1,0 +1,1 @@
+Purpose for this website is to learn React.JS concepts

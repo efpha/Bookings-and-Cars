@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* background-image: url('assets/man_phone-hero_1x.jpg'); */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: white;
+}
+
+.container{
+    /* background-color: rgb(238, 238, 238); */
+    /* background-color: red; */
+    margin-bottom: 1em;
+    width: 100%;
+    height: 540px;
+}
+
+.card-location-desc{
+    width: 90%;
+    height: 200px;
+    margin: 3em auto;
+    margin-top: 3em;
+    background-image: url('assets/man_phone-hero_1x.jpg');
+    background-position: center;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px 0 rgba(52, 142, 139, 0.2), 0 3px 10px 0 rgba(47, 174, 147, 0.19);
+}
+
+.location-desc{
+    position: absolute;
+    display: inline;
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 2.5em;
+    margin-left: 1em;
+}
+
+.card-container{
+    /* box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.2), 0 1px 10px 0 rgba(0, 0, 0, 0.19); */
+    /* border: 1px solid grey; */
+    border-radius: 10px;
+    width: 95%;
+    height: 500px;
+    padding: 0.5em;
+    margin: auto;
+    display: flex;
+}
+
+.card{
+    width: 30%;
+    height: 200px;
+    background-color: #fff;
+    padding: 6rem 0;
+    margin: .1em auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px 0 rgba(52, 142, 139, 0.2), 0 3px 10px 0 rgba(47, 174, 147, 0.19);
+    overflow: hidden;
+}
+
+.assistance-description{
+    align-content: center;
+    color: midnightblue;
+    position: relative;
+    bottom: 3em;
+    left: 0.5em;
+}
+
+.btn-available{
+    background-color: midnightblue;
+    padding: 1em 3em;
+    border-radius: 10px;
+    border: none;
+    color: #fff;
+    position: relative;
+    left: 4em;
+    bottom: 2em;
+}
