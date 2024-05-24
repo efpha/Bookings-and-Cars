@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/https//efpha.github.io/Flight-travels-and-Essentials/static/css/main.80ae60e7.css",
+    "main.js": "/https//efpha.github.io/Flight-travels-and-Essentials/static/js/main.5111a98e.js",
+    "static/media/man_phone-hero_1x.jpg": "/https//efpha.github.io/Flight-travels-and-Essentials/static/media/man_phone-hero_1x.dedb5bea25a5121043f5.jpg",
+    "index.html": "/https//efpha.github.io/Flight-travels-and-Essentials/index.html",
+    "main.80ae60e7.css.map": "/https//efpha.github.io/Flight-travels-and-Essentials/static/css/main.80ae60e7.css.map",
+    "main.5111a98e.js.map": "/https//efpha.github.io/Flight-travels-and-Essentials/static/js/main.5111a98e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80ae60e7.css",
+    "static/js/main.5111a98e.js"
+  ]
+}
