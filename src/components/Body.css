@@ -51,10 +51,10 @@ body{
 }
 
 .card{
-    width: 30%;
-    height: 200px;
+    width: 20%;
+    height: 250px;
     background-color: #fff;
-    padding: 6rem 0;
+    padding: 6rem 0.2rem;
     margin: .1em auto;
     border-radius: 10px;
     box-shadow: 0 2px 4px 0 rgba(52, 142, 139, 0.2), 0 3px 10px 0 rgba(47, 174, 147, 0.19);
@@ -62,6 +62,8 @@ body{
 }
 
 .assistance-description{
+    width: 90%;
+    /* background-color: red; */
     align-content: center;
     color: midnightblue;
     position: relative;
